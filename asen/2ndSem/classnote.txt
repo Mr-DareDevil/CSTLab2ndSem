@@ -1,0 +1,44 @@
+INTRODUCTION TO COMPUTING
+
+1. Features of A Computer
+	a. A Computer is versatile machine. It can be used to perform various different tasks.
+	b. Computer is never bored. So it can be used to perform repetitive tasks.
+	c. Computer can be used to perform very heavy calculations and Data Analysis and Processing
+	d. Computer can be used personally as a source of entertainment
+
+2. Generation of Computers:-
+	FIRST GENERATION: Vacuum Tubes
+	SECOND GENERATION: Transistors
+	THIRD GENERATION: Integrated Circuits
+	FOURTH GENERATION: Medium Scale Integrations
+	
+	Further new technologies like LSI, VLSI and ULSI are under research
+
+3. Basic Building Blocks of Modern Computers
+
+
+	INPUT UNIT----> MEMORY UNIT ------> OUTPUT UNIT
+			  |
+			  |
+			  |
+			 CPU
+
+ MEMORY UNIT:- a. Primary Memory
+	       b. Secondary Memory
+
+4. VI Editor
+	MODES:- a. Command Mode
+		b. Insert Mode
+		c. Execute Mode
+	
+	Commmand Mode to Insert Mode: i
+	Insert Mode to Command Mode: Esc
+	Saving a file: :w
+	Quitting a file :q
+	Saving and Quitting :wq
+
+Computing Practice Laboratory
+
+1. Linux File System
+2. IP Address Hanau 10.2.1.40 Hamas 10.2.1.41 	
+
